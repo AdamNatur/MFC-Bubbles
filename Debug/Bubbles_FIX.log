@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  Bubbles_FIX.cpp
+  Bubbles_FIXDoc.cpp
+  Bubbles_FIXView.cpp
+C:\Users\adamn\Desktop\Bubbles_FIX\Bubbles_FIX\Bubbles_FIXView.cpp(147,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\adamn\Desktop\Bubbles_FIX\Bubbles_FIX\Bubbles_FIXView.cpp(147,15): warning C4101: k_switch: неиспользованная локальная переменная
+C:\Users\adamn\Desktop\Bubbles_FIX\Bubbles_FIX\Bubbles_FIXView.cpp(147,6): warning C4101: x: неиспользованная локальная переменная
+C:\Users\adamn\Desktop\Bubbles_FIX\Bubbles_FIX\Bubbles_FIXView.cpp(147,12): warning C4101: r: неиспользованная локальная переменная
+  CMYTREEVIEW.CPP
+  MainFrm.cpp
+  MyTreeView.cpp
+  Создание кода...
+  Bubbles_FIX.vcxproj -> C:\Users\adamn\Desktop\Bubbles_FIX\Debug\Bubbles_FIX.exe
