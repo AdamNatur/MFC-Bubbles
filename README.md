@@ -1,0 +1,1 @@
+The MFC-application displays soap balls that move around the created window, taking into account the physics of the collision. Using the editing tree, you can change the color and thickness of the shell of the balls, as well as change their size.
